@@ -508,13 +508,6 @@ if (false) {
 }
 
 
-/***/ }),
-/* 2 */
-/***/ (function(module, exports) {
-
-module.exports = React;
-
-/***/ }),
 /* 3 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -866,10 +859,5 @@ module.exports = function() {
 
 
 /***/ }),
-/* 7 */
-/***/ (function(module, exports) {
 
-module.exports = ReactDOM;
-
-/***/ })
 /******/ ]);
